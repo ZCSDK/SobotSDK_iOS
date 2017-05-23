@@ -1,0 +1,75 @@
+
+/* Class = "UITextField"; placeholder = "机器人未知回复的次数"; ObjectID = "1rw-nM-Yk2"; */
+"1rw-nM-Yk2.placeholder" = "机器人未知回复的次数";
+
+/* Class = "UITextField"; placeholder = "不填默认为设备编号"; ObjectID = "CKK-Dy-bo6"; */
+"CKK-Dy-bo6.placeholder" = "不填默认为设备编号";
+
+/* Class = "UILabel"; text = "技能组"; ObjectID = "I8L-eu-ENK"; */
+"I8L-eu-ENK.text" = "技能组";
+
+/* Class = "UITextField"; placeholder = "技能组编号"; ObjectID = "IIH-IQ-znG"; */
+"IIH-IQ-znG.placeholder" = "技能组编号";
+
+/* Class = "UILabel"; text = "企业编号"; ObjectID = "Jf5-6v-2sP"; */
+"Jf5-6v-2sP.text" = "企业编号";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "K8J-Ta-mTl"; */
+"K8J-Ta-mTl.text" = "0";
+
+/* Class = "UILabel"; text = "关闭是否弹满意度"; ObjectID = "OIb-Ds-4xx"; */
+"OIb-Ds-4xx.text" = "关闭是否弹满意度";
+
+/* Class = "UIButton"; normalTitle = "添加用户资料"; ObjectID = "QvM-A7-SUT"; */
+"QvM-A7-SUT.normalTitle" = "添加用户资料";
+
+/* Class = "UITextField"; placeholder = "发送给客服信息"; ObjectID = "TAV-gU-KMI"; */
+"TAV-gU-KMI.placeholder" = "发送给客服信息";
+
+/* Class = "UILabel"; text = "附带商品信息"; ObjectID = "agE-Oh-Pcm"; */
+"agE-Oh-Pcm.text" = "附带商品信息";
+
+/* Class = "UILabel"; text = "技能组名称"; ObjectID = "bQ0-ga-SuO"; */
+"bQ0-ga-SuO.text" = "技能组名称";
+
+/* Class = "UITextField"; placeholder = "产品图片地址"; ObjectID = "bUh-EB-fnC"; */
+"bUh-EB-fnC.placeholder" = "产品图片地址";
+
+/* Class = "UILabel"; text = "人工优先"; ObjectID = "bzN-72-U4t"; */
+"bzN-72-U4t.text" = "人工优先";
+
+/* Class = "UILabel"; text = "是否显示转人工按钮"; ObjectID = "fC0-FZ-AXG"; */
+"fC0-FZ-AXG.text" = "是否显示转人工按钮";
+
+/* Class = "UITextField"; placeholder = "可复制,点击使用会保存本次的值"; ObjectID = "fTi-f0-uk9"; */
+"fTi-f0-uk9.placeholder" = "可复制,点击使用会保存本次的值";
+
+/* Class = "UITextField"; placeholder = "技能组名称"; ObjectID = "hwg-Zy-qGy"; */
+"hwg-Zy-qGy.placeholder" = "技能组名称";
+
+/* Class = "UILabel"; text = "机器人优先"; ObjectID = "j2A-cH-4Ju"; */
+"j2A-cH-4Ju.text" = "机器人优先";
+
+/* Class = "UITextField"; placeholder = "产品信息描述"; ObjectID = "jvi-aC-03Z"; */
+"jvi-aC-03Z.placeholder" = "产品信息描述";
+
+/* Class = "UILabel"; text = "会话保持"; ObjectID = "q7f-kJ-mWi"; */
+"q7f-kJ-mWi.text" = "会话保持";
+
+/* Class = "UILabel"; text = "用户ID"; ObjectID = "qyQ-It-Xca"; */
+"qyQ-It-Xca.text" = "用户ID";
+
+/* Class = "UILabel"; text = "语音功能"; ObjectID = "v1v-ij-hhQ"; */
+"v1v-ij-hhQ.text" = "语音功能";
+
+/* Class = "UILabel"; text = "仅机器人"; ObjectID = "vNa-pC-Y7k"; */
+"vNa-pC-Y7k.text" = "仅机器人";
+
+/* Class = "UILabel"; text = "未知回复次数"; ObjectID = "vRF-Xc-7lc"; */
+"vRF-Xc-7lc.text" = "未知回复次数";
+
+/* Class = "UILabel"; text = "仅人工"; ObjectID = "wnA-Np-8Bn"; */
+"wnA-Np-8Bn.text" = "仅人工";
+
+/* Class = "UIButton"; normalTitle = "启动智齿客服"; ObjectID = "yjE-gH-FA0"; */
+"yjE-gH-FA0.normalTitle" = "启动智齿客服";
